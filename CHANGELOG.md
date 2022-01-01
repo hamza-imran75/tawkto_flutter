@@ -1,3 +1,3 @@
 ## 0.0.1
 
-* TODO: Describe initial release.
+- Initial release. Contains basic functionality for adding TawkTo in your Flutter app. 
