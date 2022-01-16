@@ -1,3 +1,7 @@
+## 0.2.0
+
+- Added license
+
 ## 0.1.0
 
 - Updated the readme and added an example folder.
